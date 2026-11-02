@@ -1,0 +1,4 @@
+# Default funding links for every public repo of Devace-93 that has no FUNDING.yml of its own
+# (GitHub "default community health files"). Shows the Sponsor button on each repo.
+github: Devace-93
+custom: ["https://payments.3m4.net/donate?app=info"]
